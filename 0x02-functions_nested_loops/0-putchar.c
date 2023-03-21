@@ -2,7 +2,6 @@
 
 /**
  * main - this is the main betty dcoumentation function
- * 
  * Return: 0 if need be
  */
 
